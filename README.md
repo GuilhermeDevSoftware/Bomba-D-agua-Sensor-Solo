@@ -1,8 +1,11 @@
+<img width="1496" height="735" alt="image" src="https://github.com/user-attachments/assets/72079e3a-4672-4239-a4d9-2a016cc60798" />
+
+
 # Sistema de Monitoramento de Umidade do Solo com Arduino
 
 Este projeto simula um sistema de monitoramento de umidade do solo utilizando Arduino Uno, sensor de umidade, display LCD I2C e LEDs indicadores.
 
-A proposta é representar, em ambiente de simulação no Tinkercad, um sistema simples de irrigação automática. O sensor realiza a leitura da umidade do solo e o Arduino interpreta esse valor, exibindo a porcentagem no LCD e acionando LEDs conforme o estado do solo.
+A proposta é representar um sistema simples de irrigação automática. O sensor realiza a leitura da umidade do solo e o Arduino interpreta esse valor, exibindo a porcentagem no LCD e acionando LEDs conforme o estado do solo.
 
 ## Funcionamento do Projeto
 
